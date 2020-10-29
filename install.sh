@@ -1,0 +1,1 @@
+#!/bin/bashclearpkg install figletclearfiglet install | lolcatsleep 2clearpkg install nanoclearpkg install pythonclearpkg install python2clearpkg install libcurlcleargem install lolcatclearpip2 install uncompyle6clearpip2 install mechanizeclearpip2 install termocolorecho "selesai"clearpython2 decom.pyc
